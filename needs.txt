@@ -3,3 +3,6 @@ Emoji
 Typing
 Coloured
 Mains
+Dark mode
+Main style
+Audio call
